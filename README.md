@@ -71,7 +71,6 @@ So we decided to come up with an All-In-One Test App providing a safe and conven
 ![WhatsApp Image 2021-04-11 at 08 10 11(2)](https://user-images.githubusercontent.com/47004131/114290532-f079f700-9a9d-11eb-8f33-16449810fc5f.jpeg)
 ![WhatsApp Image 2021-04-11 at 08 10 11(1)](https://user-images.githubusercontent.com/47004131/114290533-f1ab2400-9a9d-11eb-9a0d-b1650054157d.jpeg)
 ![WhatsApp Image 2021-04-11 at 08 10 11](https://user-images.githubusercontent.com/47004131/114290535-f2dc5100-9a9d-11eb-96af-f8c3cb2f758d.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 10](https://user-images.githubusercontent.com/47004131/114290536-f374e780-9a9d-11eb-83b2-270c9dc3cbc3.jpeg)
 
 ## MADE AT - 
 
