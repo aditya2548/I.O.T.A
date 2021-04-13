@@ -61,17 +61,11 @@ So we decided to come up with an All-In-One Test App providing a safe and conven
 4. <a href= "https://github.com/devanshjsr"> Devansh Shukla </a>
 
 # Screenshots 
-![WhatsApp Image 2021-04-11 at 08 10 14(1)](https://user-images.githubusercontent.com/47004131/114290520-e8ba5280-9a9d-11eb-8b3f-52ad4f8e0d40.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 14](https://user-images.githubusercontent.com/47004131/114290522-ea841600-9a9d-11eb-9147-e0c7a0c6d0eb.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 13(2)](https://user-images.githubusercontent.com/47004131/114290523-ebb54300-9a9d-11eb-97d8-32995ce8a240.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 13(1)](https://user-images.githubusercontent.com/47004131/114290524-ece67000-9a9d-11eb-98fa-b3dfc3c54d6b.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 13](https://user-images.githubusercontent.com/47004131/114290527-ed7f0680-9a9d-11eb-8c15-556b1db80eee.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 12(1)](https://user-images.githubusercontent.com/47004131/114290529-eeb03380-9a9d-11eb-8662-99ebd554b7ee.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 12](https://user-images.githubusercontent.com/47004131/114290530-efe16080-9a9d-11eb-91a8-bd193974a67f.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 11(2)](https://user-images.githubusercontent.com/47004131/114290532-f079f700-9a9d-11eb-8f33-16449810fc5f.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 11(1)](https://user-images.githubusercontent.com/47004131/114290533-f1ab2400-9a9d-11eb-9a0d-b1650054157d.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 11](https://user-images.githubusercontent.com/47004131/114290535-f2dc5100-9a9d-11eb-96af-f8c3cb2f758d.jpeg)
-![WhatsApp Image 2021-04-11 at 08 10 10](https://user-images.githubusercontent.com/47004131/114290536-f374e780-9a9d-11eb-83b2-270c9dc3cbc3.jpeg)
+|   |   |   |
+|---|---|---|
+|![quiz 1](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/create_quiz1.jpeg)|![quiz 2](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/create%20_quiz2.jpeg)|![pending assignments](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/pending_assignments.jpeg)|
+![quiz deadline](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/quiz_deadline.jpeg)|![sample quiz](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/sample_quiz.jpeg)|![share subject code](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/share_subject_code.jpeg)
+![subject profile](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/subject_profile.jpeg)|![submit assignments](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/submit_assignment.jpeg)|![upload assignments](https://raw.githubusercontent.com/aanchalsingh17/I.O.T.A/master/screenshots/upload_assignment.jpeg)
 
 ## MADE AT - 
 
